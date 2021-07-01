@@ -1,25 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="./css/normalize.css" />
-    <link rel="stylesheet" href="./css/style.css" />
-    <link
-      rel="stylesheet"
-      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
-      integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
-      crossorigin="anonymous"
-    />
-    <title>Document</title>
-  </head>
-  <body>
-    <h1>hello world 2.0</h1>
-    <button class="btn btn--accent btn--block">Buy Now</button>
 
-    <br />
-    <br />
-    <!-- breakfast -->
     <div class="card meal-card" style="width: 18rem">
       <img
         class="card-img-top"
@@ -32,8 +11,7 @@
       </div>
     </div>
 
-    <br /><br />
-    <!-- lunch -->
+
     <div class="card meal-card" style="width: 18rem">
       <img class="card-img-top" src="./images/lunch.jpg" alt="Card image cap" />
       <div class="card-body">
@@ -42,9 +20,7 @@
       </div>
     </div>
 
-    <br /><br />
 
-    <!-- Dinner -->
     <div class="card meal-card" style="width: 18rem">
       <img
         class="card-img-top"
@@ -57,8 +33,8 @@
       </div>
     </div>
 
-    <br /><br />
-    <!-- Snack -->
+   
+ 
     <div class="card meal-card" style="width: 18rem">
       <img class="card-img-top" src="./images/snack.jpg" alt="Card image cap" />
       <div class="card-body">
@@ -67,4 +43,3 @@
       </div>
     </div>
   </body>
-</html>

@@ -87,4 +87,13 @@ p {
 .btn--block {
   width: 100%;
   display: inline-block;
+  color: white;
+}
+
+/* card */
+
+.meal-card {
+  border-radius: 20%;
+  box-shadow: 0 0 20px 10px #f3f3f3;
+  overflow: hidden;
 }
